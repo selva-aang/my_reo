@@ -1,0 +1,1 @@
+he best Linux command to check file size is using du command. What we need is to open the terminal and type du -sh file name in the prompt. The file size will be listed on the first column.  The size will be displayed in Human Readable Format.
